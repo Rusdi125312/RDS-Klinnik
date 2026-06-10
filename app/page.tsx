@@ -60,7 +60,7 @@ export default function DashboardUtama() {
     <div className="p-6 max-w-7xl mx-auto space-y-8">
       {/* Welcome Banner */}
       <div className="bg-gradient-to-r from-blue-600 to-indigo-600 p-8 rounded-2xl text-white shadow-md">
-        <h1 className="text-2xl font-black font-mono tracking-tight">// CONTROL_CENTER: RSD MEDICA</h1>
+        <h1 className="text-2xl font-black font-mono tracking-tight">// CONTROL_CENTER: RDS MEDICA</h1>
         <p className="text-xs text-blue-100 mt-1.5 max-w-md">
           Selamat datang di sistem manajemen informasi klinik terintegrasi. Pantau data master dan transaksi secara real-time.
         </p>

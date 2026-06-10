@@ -6,7 +6,7 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RSD Medica - Dashboard Klinik",
+  title: "RDS Medica - Dashboard Klinik",
   description: "Sistem Informasi Manajemen Klinik Terintegrasi",
 };
 
@@ -27,7 +27,7 @@ export default function RootLayout({
               <div className="flex items-center space-x-3 pb-4 border-b border-slate-100">
                 <span className="h-3 w-3 rounded-full bg-blue-600 animate-pulse"></span>
                 <h1 className="text-xl font-black bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent tracking-tight">
-                  RSD Medica
+                  RDS Medica
                 </h1>
               </div>
 
