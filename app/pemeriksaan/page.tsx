@@ -155,7 +155,7 @@ export default function HalamanPemeriksaan() {
   return (
     <div className="p-6 max-w-7xl mx-auto space-y-6">
       <div className="border-b border-slate-200 pb-4">
-        <h1 className="text-xl font-black text-indigo-600 font-mono tracking-tight">// RUANG PEMERIKSAAN KLINIS</h1>
+        <h1 className="text-xl font-black text-indigo-600 font-mono tracking-tight">// RUANG PEMERIKSAAN KLINIK</h1>
         <p className="text-xs text-slate-500 mt-1">Pencatatan riwayat anamnesis penyakit pasien beserta pemberian resep obat dokter.</p>
       </div>
 
